@@ -2,7 +2,7 @@
 
 # Garnet
 
-Garnet is a collaboration by the instructors of GA's WDI to produce a student data-tracking app that's better than Google Sheets.
+Garnet is a collaboration by the instructors of GA's WDI Program to produce a student data-tracking app that's better than Google Sheets.
 
 ### Please fork, clone, and contribute!
 
