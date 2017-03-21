@@ -1,6 +1,6 @@
 [![Travis](https://travis-ci.org/ga-dc/garnet.svg?branch=master)](https://travis-ci.org/ga-dc/garnet/)
 
-# Garnet
+## Garnet
 
 Garnet is a collaboration by the instructors of GA's WDI Program to produce a student data-tracking app that's better than Google Sheets.
 
